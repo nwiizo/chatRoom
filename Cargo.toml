@@ -1,0 +1,8 @@
+[package]
+name = "chatRoom"
+version = "0.1.0"
+authors = ["nwiizo <syu.m.5151@gmail.com>"]
+
+[dependencies]
+mio-websocket = { git = "https://github.com/nbaksalyar/mio-websocket" }
+env_logger = "0.3"
